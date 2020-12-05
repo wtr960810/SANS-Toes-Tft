@@ -1,0 +1,41 @@
+<Resource>
+    <pages>
+        <page name="主界面" id="0" />
+        <page name="实验界面" id="1" />
+        <page name="设置界面" id="2" />
+        <page name="历史数据1" id="3" />
+        <page name="历史数据2" id="4" />
+        <page name="语言设置" id="5" />
+        <page name="清除所有数据警告" id="6" />
+        <page name="帮助-关于我们" id="7" />
+        <page name="内存溢出警告" id="8" />
+        <page name="帮助-帮助文档" id="9" />
+        <page name="帮助-联系我们" id="10" />
+        <page name="清除单次数据警告" id="11" />
+        <page name="数据导出提示界面" id="12" />
+    </pages>
+    <images>
+        <image id="0" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\主界面v1.3.jpg" effect_width="1024" effect_height="600" />
+        <image id="1" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\主界面v1.3-按下.jpg" effect_width="1024" effect_height="600" />
+        <image id="2" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Experiment Interface1.3.jpg" effect_width="1024" effect_height="600" />
+        <image id="3" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Experiment Interface1.0-按下.jpg" effect_width="1024" effect_height="600" />
+        <image id="4" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Settings Interface-1.1.jpg" effect_width="1024" effect_height="600" />
+        <image id="5" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\进度条.png" effect_width="638" effect_height="21" />
+        <image id="6" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\滑块_游标素材.png" effect_width="48" effect_height="48" />
+        <image id="7" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Settings Interface-按下.jpg" effect_width="1024" effect_height="600" />
+        <image id="8" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\History data primary interface1.2.jpg" effect_width="1024" effect_height="600" />
+        <image id="9" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\History Data Secondary Interface-1.1.jpg" effect_width="1024" effect_height="600" />
+        <image id="10" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Language1.1.jpg" effect_width="1024" effect_height="600" />
+        <image id="11" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Language-按下.jpg" effect_width="1024" effect_height="600" />
+        <image id="12" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\History data primary interface-warnning1.1.jpg" effect_width="1024" effect_height="600" />
+        <image id="13" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Help-about1.1.jpg" effect_width="1024" effect_height="600" />
+        <image id="14" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Experiment Interface-warnning1.1.jpg" effect_width="1024" effect_height="600" />
+        <image id="15" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Help-guide1.2.jpg" effect_width="1024" effect_height="600" />
+        <image id="16" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\processer.png" effect_width="15" effect_height="306" />
+        <image id="17" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\滑块_游标素材1.png" effect_width="24" effect_height="24" />
+        <image id="18" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Help-guide1.2按下.jpg" effect_width="1024" effect_height="600" />
+        <image id="19" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\Help-connection1.1.jpg" effect_width="1024" effect_height="600" />
+        <image id="20" url="d:\aaa_sans\sans2020\足指容积测量仪\sans-足指容积测量仪\Images\History Data Secondary Interface-warnning1.1.jpg" effect_width="1024" effect_height="600" />
+    </images>
+    <waves />
+</Resource>
